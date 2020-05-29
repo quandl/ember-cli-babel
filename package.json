@@ -40,7 +40,7 @@
     "test:node:debug": "mocha debug node-tests"
   },
   "dependencies": {
-    "@babel/core": "^7.9.0",
+    "@babel/core": "=7.8.0",
     "@babel/helper-compilation-targets": "^7.8.7",
     "@babel/plugin-proposal-class-properties": "^7.8.3",
     "@babel/plugin-proposal-decorators": "^7.8.3",
